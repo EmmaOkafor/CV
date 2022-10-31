@@ -15,8 +15,9 @@ body{
 
 header{
   width: 100%;
-    background-color: rgba(2, 121, 8, 0.863);
+    background:#A3E4D7;
     color:#ffffff;
+    margin:0;
 }
 
 .flex-container {
