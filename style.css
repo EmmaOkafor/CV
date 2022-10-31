@@ -9,7 +9,7 @@ body{
 }
 
 .container{
-    width: 75%;
+    width: 100%;
     margin 0 auto;
 }
 
@@ -21,7 +21,7 @@ header{
 
 .flex-container {
     display: flex;
-    
+
   }
 
   .flex-container > h1 {
@@ -29,7 +29,7 @@ header{
     width: 70%;
     padding: 20px;
   }
-  
+
   .flex-container > ul {
     padding: 20px;
     width:30%;
